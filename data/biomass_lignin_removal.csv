@@ -1,4 +1,4 @@
-﻿Ionic Liquid,Cation,Anion,Biomass Source,Temperature (°C),Time (min),Solid Loading (%),Kamlet Taft (α),Kamlet Taft (β),CLogP,Viscosity (η/ mPa·s) @298.15K,pKa,Conductivity (S/m),cation_molecular_weight,cation_n_carbons,cation_nitrogen_count,anion_molecular_weight,anion_oxygen_count,anion_hydrogen_bonding,Delignification (%) 
+﻿Ionic Liquid,Cation,Anion,Biomass Source,Temperature (°C),Time (min),Solid Loading (%),Kamlet Taft (α),Kamlet Taft (β),CLogP,Viscosity (η/ mPa·s) @298.15K,pKa,Conductivity (S/m),cation_molecular_weight,cation_n_carbons,cation_nitrogen_count,anion_molecular_weight,anion_oxygen_count,anion_hydrogen_bonding,lignin_removal
 [amim][Cl],1-allyl-3-methylimidazolium,chloride,Southern pine,120,300,5,0.75,0.65,-3.083,66,22.5,0.928,110.15,5,1,35.45,0,1,17
 [amim][Cl],1-allyl-3-methylimidazolium,chloride,Norway spruce TMP,120,300,5,0.75,0.65,-3.083,66,22.5,0.928,110.15,5,1,35.45,0,1,21
 [amim][Cl],1-allyl-3-methylimidazolium,chloride,Dawn redwood,90,30,15,0.75,0.65,-3.083,66,22.5,0.928,110.15,5,1,35.45,0,1,48
