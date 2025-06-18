@@ -1,9 +1,9 @@
-#reference
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import Ridge
 from sklearn.metrics import r2_score, mean_squared_error
 import joblib
+import numpy as np
 
 # Load cleaned data
 df = pd.read_csv('../data/cleaned_biomass_lignin_removal.csv')
@@ -30,11 +30,11 @@ model.fit(X_train, y_train)
 # Evaluate model
 y_pred = model.predict(X_test)
 r2 = r2_score(y_test, y_pred)
-rmse = mean_squared_error(y_test, y_pred, squared=False)
-print(f'R² score: {r2:.4f}')
+mse = mean_squared_error(y_test, y_pred)
+rmse = np.sqrt(mse)
+print(f'R2 score: {r2:.4f}')
 print(f'RMSE: {rmse:.4f}')
 
 # Save model
 joblib.dump(model, '../models/ridge_model.pkl')
 print('Model saved to ../models/ridge_model.pkl')
-
