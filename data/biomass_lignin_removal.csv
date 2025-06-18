@@ -1,0 +1,98 @@
+﻿Ionic Liquid,Cation,Anion,Biomass Source,Temperature (°C),Time (min),Solid Loading (%),Kamlet Taft (α),Kamlet Taft (β),CLogP,Viscosity (η/ mPa·s) @298.15K,pKa,Conductivity (S/m),cation_molecular_weight,cation_n_carbons,cation_nitrogen_count,anion_molecular_weight,anion_oxygen_count,anion_hydrogen_bonding,Delignification (%) 
+[amim][Cl],1-allyl-3-methylimidazolium,chloride,Southern pine,120,300,5,0.75,0.65,-3.083,66,22.5,0.928,110.15,5,1,35.45,0,1,17
+[amim][Cl],1-allyl-3-methylimidazolium,chloride,Norway spruce TMP,120,300,5,0.75,0.65,-3.083,66,22.5,0.928,110.15,5,1,35.45,0,1,21
+[amim][Cl],1-allyl-3-methylimidazolium,chloride,Dawn redwood,90,30,15,0.75,0.65,-3.083,66,22.5,0.928,110.15,5,1,35.45,0,1,48
+[Amim][Cl],1-allyl-3-methylimidazolium,chloride,Pine wood,120,60,5,0.89,0.59,-3.083,66,22.5,0.928,111.16,6,2,35.45,0,1,55
+[amim][Cl]/DMSO,1-allyl-3-methylimidazolium,chloride,Southern Yellow Pine,110,960,5,0.75,1.28,-3.083,16.2,23.5,0.0624,110.15,5,2,35.45,0,1,70
+[amim][Cl]/DMSO,1-allyl-3-methylimidazolium,chloride,Southern Yellow Pine,110,960,8,0.75,1.28,-3.083,16.2,23.5,0.0624,110.15,5,2,35.45,0,1,26.1
+[amim][Cl]/DMSO,1-allyl-3-methylimidazolium,chloride,Pine,100,900,15,0.75,1.28,-3.083,16.2,23.5,0.0624,110.15,5,2,35.45,0,1,48.4
+[amim][Cl]/DMSO,1-allyl-3-methylimidazolium,chloride,Pine,100,180,5,0.75,1.28,-3.083,16.2,23.5,0.0624,110.15,5,2,35.45,0,1,71
+[BMIM][Br],1-butyl-3-methylimidazolium,bromide,Southern Pine,124,200,9,0.05,0.85,-1.6,3500,22,0.0339,139.21,8,2,79.9,0,0,85
+[BMIM][Br],1-butyl-3-methylimidazolium,bromide,Norway spruce,180,60,5,0.36,0.87,-1.6,3500,22,0.0339,139.21,8,2,79.9,0,0,58.4
+[BMIM][Cl],1-butyl-3-methylimidazolium,chloride,Sugar pine,170,180,10,0.64,0.83,-1.44,11000,23.8,0.46,139.21,8,2,35.45,0,0,56.8
+[BMIM][Cl],1-butyl-3-methylimidazolium,chloride,Loblolly Pine Wood,150,30,5,0.64,0.83,-1.44,11000,23.8,0.46,139.21,8,2,35.45,0,0,68.4
+[BMIM][Cl],1-butyl-3-methylimidazolium,chloride,Southern Yellow Pine (wood flour),130,480,8,0.64,0.83,-1.44,11000,23.8,0.46,139.21,8,2,35.45,0,0,21
+[BMIM][Cl],1-butyl-3-methylimidazolium,chloride,Dawn redwood,90,30,15,0.64,0.83,-1.44,11000,23.8,0.46,139.21,8,2,35.45,0,0,97.3
+[BMIM][Cl],1-butyl-3-methylimidazolium,chloride,Scots pine,100,180,20,0.64,0.83,-1.44,11000,23.8,0.46,139.21,8,2,35.45,0,0,38.2
+[BMIM][HSO4],1-butyl-3-methylimidazolium,hydrogen sulfate,Eastern white pine,150,45,10,0.32,0.95,-2.27,330,5.81,0.052,139.21,8,2,97.07,0,1,87.7
+[BMIM][HSO4],1-butyl-3-methylimidazolium,hydrogen sulfate,Ponderosa pine,200,60,5,0.36,0.87,-2.27,330,5.81,0.052,139.21,8,2,97.07,0,1,85.1
+[BMIM][LAC],1-butyl-3-methylimidazolium,lactate,Douglas fir,140,240,15,0.36,0.87,-2.27,27.32,3.86,0.14,139.21,8,2,89.07,0,1,64.9
+[BMIM][LAC],1-butyl-3-methylimidazolium,lactate,Virginia pine,200,60,10,0.36,0.87,-2.27,350,3.86,0.14,139.21,8,2,89.07,0,1,79.3
+[BMIM][MeSO4],1-butyl-3-methylimidazolium,methylsulfate,Sugar pine,120,180,10,0.53,0.69,-2.19,145,1.9,0.01,139.21,8,2,111.09,0,1,61.2
+[BMIM][MeSO4],1-butyl-3-methylimidazolium,methylsulfate,Western white pine,170,180,5,0.53,0.69,-2.19,145,1.9,0.01,139.21,8,2,111.09,0,1,72.5
+[BMIM][OAc],1-butyl-3-methylimidazolium,acetate,Pine (Pinus radiata),130,90,10,0.43,1.05,-2.27,383,4.679,0.07312,139.21,8,2,59.04,0,1,72.3
+[BMIM][OAc],1-butyl-3-methylimidazolium,acetate,Loblolly pine,180,120,10,0.43,1.05,-2.27,383,4.679,0.07312,139.21,8,2,59.04,0,1,80.2
+[BMIM][OAc],1-butyl-3-methylimidazolium,acetate,Spruce wood,120,480,5,0.43,1.05,-2.27,383,4.679,0.07312,139.21,8,2,59.04,0,1,71.74
+[BMIM][OAc],1-butyl-3-methylimidazolium,acetate,Spruce wood,130,7200,5,0.43,1.05,-2.27,383,4.679,0.07312,139.21,8,2,59.04,0,1,59.04
+[BMIM][OAc],1-butyl-3-methylimidazolium,acetate,Pine (Pinus radiata),130,45,10,0.43,1.05,-1.6,383,4.679,0.07312,139.21,8,2,59.04,0,1,48
+[BMIM][OAc],1-butyl-3-methylimidazolium,acetate,Loblolly pine,180,120,10,0.43,1.05,-2.27,383,4.679,0.07312,139.21,8,2,59.04,0,1,80.2
+[BMIM][OAc]/H2O,1-butyl-3-methylimidazolium,acetate / water,Pine sapwood,120,1320,10,0.43,1.05,-2.27,383,4.679,0.0144,139.21,8,2,59.04,0,1,81.7
+[BMIM]Br,1-butyl-3-methylimidazolium,bromide,Norway spruce,180,60,5,0.36,0.87,-1.9,3500,9,0.25,139.21,8,2,79.9,0,0,58.4
+[BMIM]Cl,1-butyl-3-methylimidazolium,chloride,Scots pine,100,180,20,0.32,0.95,-1.44,11000,21.6,0.46,139.21,8,2,35.45,0,0,38.2
+[Ch][Cl],cholinium,chloride,Shortleaf pine,170,60,5,0.8,0.9,-1.3,450,2,0.105,104.17,5,1,35.45,0,0,55.3
+[Ch][Cl],cholinium,chloride,Norway spruce,160,240,10,0.8,0.9,-1.3,450,2,0.105,104.17,5,1,35.45,0,0,59.8
+[Ch][HSO4],cholinium,hydrogen sulfate,Sitka spruce,170,90,10,1.05,0.85,-1.9,180,1.99,0.05,104.17,5,1,97.07,4,1,72.1
+[Ch][HSO4],cholinium,hydrogen sulfate,Lodgepole pine,180,120,5,1.05,0.85,-1.9,180,1.99,0.05,104.17,5,1,97.07,4,1,77.9
+[Ch][LAC],cholinium,lactate,Western red cedar,130,300,5,0.85,0.92,-1.8,1.7,3.9,0.035,104.17,5,1,89.07,3,1,60.2
+[Ch][LAC],cholinium,lactate,Pitch pine,190,90,15,0.85,0.92,-1.8,1.7,3.9,0.035,104.17,5,1,89.07,3,1,71.4
+[Ch][Lys],cholinium,lysinate,Ponderosa pine,90,240,5,0.59,0.8,-2.1,63,9,0.47,104.17,5,1,146.19,4,2,53.7
+[Ch][Lys],Cholinium,lysinate,Pine,140,90,20,0.59,0.8,-2.1,63,9,0.47,104.17,5,1,146.19,2,1,70
+[Ch][Lys],cholinium,lysinate,Ponderosa pine,140,180,5,0.59,0.8,-2.1,63,9,0.47,104.17,5,1,146.19,4,2,53.7
+[Ch][OAc],cholinium,acetate,Slash pine,110,240,15,0.81,0.95,-1.6,95,4.8,0.2,104.17,5,1,59.04,2,1,58.7
+[Ch][OAc],cholinium,acetate,Eastern white pine,160,240,10,0.81,0.95,-1.6,95,4.8,0.2,104.17,5,1,59.04,2,1,69.8
+[DMBA][Cl],NN-dimethylbutylammonium,chloride,Table mountain pine,130,240,10,0.8,0.9,-1.3,130,10.5,3.2,116.2,6,1,35.45,0,0,41.7
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),180,40,20,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,62.7
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),180,30,10,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,65
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),180,30,30,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,56.3
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,40,10,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,59.4
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),180,20,20,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,70.3
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,40,30,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,58.6
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,30,20,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,88.1
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,20,10,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,73.7
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),160,40,20,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,57.9
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),160,30,10,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,68.8
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,20,30,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,34.1
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),160,30,30,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,38.4
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),160,20,20,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,40.4
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,30,80,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,90
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Virginia pine,150,120,15,1,0.7,-0.3,240,1.99,1.1,116.2,6,1,97.07,4,1,63.5
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Red pine,150,300,5,1,0.7,-0.3,240,1.99,1.1,116.2,6,1,97.07,4,1,72.6
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Virginia pine,150,120,15,1,0.7,-0.3,240,1.99,1.1,116.2,6,1,97.07,4,1,63.5
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Red pine,150,300,5,1,0.7,-0.3,240,1.99,1.1,116.2,6,1,97.07,4,1,72.6
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Virginia pine,150,120,15,1,0.7,-0.3,240,1.99,1.1,116.2,6,1,97.07,4,1,63.5
+[DMBA][HSO4],NN-dimethylbutylammonium,hydrogen sulfate,Red pine,150,300,5,1,0.7,-0.3,240,1.99,1.1,116.2,6,1,97.07,4,1,72.6
+[DMBA][HSO₄],NN-dimethylbutylammonium,hydrogen sulfate,Pine softwood (Pinus sylvestris),170,30,80,1,0.7,-0.3,240,1.99,1.1,116.21,5,1,97.07,4,1,90
+[DMBA][OAc],NN-dimethylbutylammonium,acetate,Pitch pine,140,180,5,0.82,0.94,-1.5,150,4.8,2.3,116.21,6,1,59.04,2,1,64.2
+[DMBA][OAc],NN-dimethylbutylammonium,acetate,Pitch pine,140,180,5,0.82,0.94,-1.5,150,4.8,2.3,116.21,6,1,59.04,2,1,64.2
+[DMBA][OAc],NN-dimethylbutylammonium,acetate,Pitch pine,140,180,5,0.82,0.94,-1.5,150,4.8,2.3,116.21,6,1,59.04,2,1,64.2
+[EMIM][Br],1-ethyl-3-methylimidazolium,bromide,Scots pine,120,300,15,0.4,0.95,-3.328,85,21.6,0.0034,111.16,6,2,79.9,0,0,35.9
+[EMIM][Cl],1-ethyl-3-methylimidazolium,chloride,Loblolly pine,110,120,15,0.4,0.95,-3.328,18.7,22,0.005,111.16,6,2,35.45,0,0,45.6
+[EMIM][Cl],1-ethyl-3-methylimidazolium,chloride,Jack pine,190,90,10,0.4,0.95,-3.328,18.7,22,0.005,111.16,6,2,35.45,0,0,62.3
+[EMIM][HSO4],1-ethyl-3-methylimidazolium,hydrogen sulfate,Jack pine,160,30,5,0.4,0.95,-3.328,52.7,4.679,0.00512,111.16,6,2,97.07,0,1,78.9
+[EMIM][HSO4],1-ethyl-3-methylimidazolium,hydrogen sulfate,Slash pine,170,180,5,0.4,0.95,-3.328,52.7,4.679,0.00512,111.16,6,2,97.07,0,1,81.4
+[EMIM][HSO4],1-ethyl-3-methylimidazolium,hydrogen sulfate,Pinus pinaster,190,30,5,0.4,0.95,-3.328,155.1,4.679,0.00512,111.16,6,2,59.04,0,1,40
+[EMIM][LAC],1-ethyl-3-methylimidazolium,lactate,Japanese larch,150,180,10,0.4,0.95,-3.328,7.6,4.679,2.5,111.16,6,2,89.07,0,1,71.3
+[EMIM][LAC],1-ethyl-3-methylimidazolium,lactate,Shortleaf pine,150,300,10,0.4,0.95,-3.328,7.6,4.679,2.5,111.16,6,2,89.07,0,1,76.5
+[EMIM][MeSO4],1-ethyl-3-methylimidazolium,methylsulfate,Lodgepole pine,130,120,5,0.58,0.62,-3.328,82,4.679,0.097,111.16,6,2,111.09,0,1,69.3
+[EMIM][MeSO4],1-ethyl-3-methylimidazolium,methylsulfate,Table mountain pine,180,120,10,0.58,0.62,-3.328,82,4.679,0.097,111.16,6,2,111.09,0,1,74.8
+[EMIM][OAc],1-ethyl-3-methylimidazolium,acetate,Pine (Pinus sylvestris),140,15,5,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,42.6
+[EMIM][OAc],1-ethyl-3-methylimidazolium,acetate,Pine (Pinus sylvestris),140,30,5,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,35.5
+[EMIM][OAc],1-ethyl-3-methylimidazolium,acetate,Pine (Pinus sylvestris),140,45,5,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,10.3
+[EMIM][OAc],1-ethyl-3-methylimidazolium,acetate,Pine (Pinus sylvestris),120,60,5,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,68.5
+[EMIM][OAc],1-ethyl-3-methylimidazolium,acetate,Southern yellow pine,190,90,5,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,83.7
+[EMIM][OAc],1-ethyl-3-methylimidazolium,acetate,Southern yellow pine,120,6600,10,0.44,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,48
+[EMIM][OAc],1-ethyl-3-methylimidazolium, acetate,Pinus sp. Sawdust,120,1440,9,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,0,1,33
+[EMIM][OAc],1-ethyl-3-methylimidazolium, acetate,Yellow pine,140,45,5,0.4,0.95,-3.328,155.1,4.679,0.28,111.16,6,2,59.04,2,1,56
+[EOA][OAc],ethanolamine, acetate,Pine (forest thinned),160,180,5,0.85,0.92,-1.7,100,4.8,0.02,61.08,2,1,59.04,2,1,85
+[EOA][OAc],ethanolamine, acetate,Pine in blend (almond:walnut:pine 2:2:1),160,180,5,0.85,0.92,-1.7,100,4.8,0.02,61.08,2,1,59.04,2,1,92
+[MMIM][LAC],1-methylimidazolium,lactate,European larch,160,120,5,0.75,0.95,0.904,2.2,22.76,0.14,83.1,4,2,89.07,3,1,67.8
+[N11H(2OH)][LAC],2-hydroxyethyl ammonium,lactate,Scots pine,120,90,10,0.82,0.6,-2.8,146.2,9.25,0.024,76.09,2,1,90.08,3,2,70
+[N11H(2OH)][LAC],2-hydroxyethyl ammonium ,lactate,Scots Pine (Pinus sylvestris),180,180,25,0.82,0.6,-3.572,146.2,9.25,0.024,76.09,2,1,90.08,3,2,61
+[N11H(2OH)][LAC],2-hydroxyethyl ammonium ,lactate,Scots Pine (Pinus sylvestris),180,180,0.25,0.82,0.6,-3.572,146.2,9.25,0.024,76.09,2,1,90.08,3,2,61
+[N11H(2OH)][OAc],2-hydroxyethylammonium,acetate,Pine,170,30,20,0.8,0.89,-3.08,45.2,9.6,0.072,76.08,2,1,59.04,2,1,88
+[TEA][Cl],triethylammonium,chloride,Western white pine,160,90,10,0.81,0.89,-1.4,1.2,10.75,3.1,102.18,6,1,35.45,0,0,48.8
+[TEA][HSO4],triethylammonium,hydrogen sulfate,Red pine,140,60,15,1.02,0.65,-0.5,220,1.99,1,102.18,6,,97.07,4,1,64.8
+[TEA][HSO4],triethylammonium,hydrogen sulfate,Longleaf pine,160,240,5,1.02,0.65,-0.5,220,1.99,1,102.18,6,,97.07,4,1,70.3
+[TEA][LAC],triethylammonium,lactate,Western hemlock,120,60,10,0.86,0.91,-1.8,4.8,3.9,1.7,102.18,6,1,89.07,3,1,59.5
+[TEA][LAC],triethylammonium,lactate,Sitka spruce,150,300,15,0.86,0.91,-1.8,4.8,3.9,1.7,102.18,6,1,89.07,3,1,67.9
+[TEA][OAc],triethylammonium,acetate,Longleaf pine,100,300,20,0.84,0.93,-1.6,2.52,4.8,2.4,102.18,6,1,59.04,2,1,46.9
