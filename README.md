@@ -1,2 +1,2 @@
 # Lignin_Removal_Predictor
-Software for predicting lignin removal from biomass using ML
+Predicting lignin removal from biomass using ML
